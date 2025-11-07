@@ -4,5 +4,12 @@
     "start": "NODE_ENV=production node index.js",
     "dev": "nodemon index.js"
   },
-  "engines": { "node": ">=18" }
+  "engines": { "node": ">=18" },
+  "dependencies": {
+  "express": "^4.19.2",
+  "cors": "^2.8.5",
+  "helmet": "^7.0.0",
+  "multer": "^1.4.5-lts.1",
+  "fs-extra": "^11.2.0"
+}
 }
