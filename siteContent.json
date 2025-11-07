@@ -1,0 +1,208 @@
+{
+  "home": {
+    "hero": {
+      "title1": "Zéro",
+      "title2": "A",
+      "title3": "Héro",
+      "subtitle": "Jusqu'au bout de vos rêves.",
+      "image": "/assets/IMG_2808.jpg"
+    },
+    "presentation": {
+      "title": "Zéro A Héro",
+      "description": "Libreville est une école de Danse et de Gymnastique au Gabon qui propose des enseignements de qualité pour tous âges et tous niveaux. Des plus jeunes aux adultes, nous proposons une formation en gymnastique et en danse dans un environnement dynamique et communautaire."
+    },
+    "objectives": {
+      "title": "Nos Objectifs",
+      "description": "Nous mettons tout en œuvre pour développer les compétences techniques, la force, la souplesse, la confiance et l'estime de soi de chaque élève. La gymnastique et la danse favorisent un développement physique, mental et émotionnel complet.",
+      "highlightedWords": ["compétences techniques", "force", "souplesse", "confiance", "estime de soi"]
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "introduction": "Le respect, la persévérance, l'honnêteté, l'entraide et l'esprit d'équipe sont des valeurs que nous transmettons à travers des expériences enrichissantes.",
+      "valuesList": [
+        { "title": "Respect", "description": "Respect mutuel et bienveillance", "color": "text-danger" },
+        { "title": "Persévérance", "description": "Détermination et ténacité", "color": "text-warning" },
+        { "title": "Honnêteté", "description": "Transparence et intégrité", "color": "text-success" },
+        { "title": "Entraide", "description": "Solidarité et support mutuel", "color": "text-info" },
+        { "title": "Esprit d'équipe", "description": "Collaboration et unité", "color": "text-primary" }
+      ]
+    },
+    "team": {
+      "title": "Notre Équipe Passionnée",
+      "description": "Notre école est animée par une équipe dynamique et passionnée, dédiée à partager l'amour du mouvement et à accompagner chaque élève dans son épanouissement personnel."
+    },
+    "cta": {
+      "text": "Explorez notre site web pour en savoir plus sur nos programmes, nos installations et nos réalisations.",
+      "buttons": [
+        { "text": "Voir nos programmes", "link": "/cours" },
+        { "text": "Nous rejoindre", "link": "/contact" }
+      ]
+    }
+  },
+
+  "activities": {
+    "carousel": {
+    "title": "Nos Activités",
+    "subtitle": "Un aperçu de la vie à l’école Zéro à Héro",
+    "items": [
+      {
+        "title": "Spectacle de Fin d’Année",
+        "description": "Un grand gala artistique célébrant la progression et la créativité de tous nos héros.",
+        "media": [
+          { "type": "image", "src": "http://localhost:3001/uploads/spectacle1.jpg" },
+          { "type": "image", "src": "http://localhost:3001/uploads/spectacle2.jpg" },
+          { "type": "video", "src": "http://localhost:3001/uploads/spectacle.mp4" }
+        ]
+      },
+      {
+        "title": "Activités en Plein Air",
+        "description": "Des séances en extérieur pour allier bien-être, performance et esprit d’équipe, dans un cadre naturel inspirant.",
+        
+        "media": [
+          { "type": "image", "src": "http://localhost:3001/uploads/plein_air.jpg" },
+          { "type": "video", "src": "http://localhost:3001/uploads/plein_air.mp4" }
+        ]
+      },
+      {
+        "title": "Journées Récréatives",
+        "description": "Des moments de détente et de cohésion pour nos élèves — jeux, animations et défis collectifs dans une ambiance festive.",
+        "image": "http://localhost:3001/uploads/recreative.jpg"
+      },
+      {
+        "title": "Journées Intensives",
+        "description": "Des sessions de travail intensif où nos élèves repoussent leurs limites en danse et gymnastique.",
+        "media": [
+          { "type": "image", "src": "http://localhost:3001/uploads/intensive.jpg" },
+          { "type": "video", "src": "http://localhost:3001/uploads/intensive.mp4" }
+        ]
+      }
+      
+    ]
+  },
+    "calendar": {
+      "title": "Calendrier des Activités 2025",
+      "subtitle": "Toutes les activités prévues pour vivre une année complète.",
+      "activities": [
+        { "title": "Formations", "date": "7 Octobre 2025 - 30 Juin 2026", "description": "Cours de gymnastique et de danse durant 9 mois consécutifs." },
+        { "title": "Journées Récréatives", "date": "Non défini", "description": "Moments de partage et de sociabilisation pour renforcer les liens et l’esprit d’équipe." },
+        { "title": "Journées Intensives", "date": "Non défini", "description": "Semaines de travail intensif pour perfectionner les techniques en danse et gymnastique." },
+        { "title": "Cours en Plein Air", "date": "Non défini", "description": "Séances en extérieur pour développer confiance et présence scénique." },
+        { "title": "Préparation aux Examens", "date": "1er Mars – 31 Mai 2025", "description": "Programme spécial BEPC & BAC pour renforcer les compétences techniques." },
+        { "title": "Spectacle de Fin d’Année", "date": "Non défini", "description": "Grand événement annuel présentant le travail des élèves." }
+      ]
+    },
+    "pastEvents": {
+      "title": "Retour sur les Activités Précédentes",
+      "subtitle": "Les événements marquants des années passées.",
+      "events": [
+        { "title": "Sortie", "date": "Date à préciser", "details": ["Excursion éducative", "Moments de cohésion"] },
+        { "title": "Spectacle", "date": "Date à préciser", "details": ["Représentation artistique", "Participation des élèves"] }
+      ]
+    },
+    "cta": {
+      "title": "Prêt(e) à devenir un HÉROS ?",
+      "description": "Rejoignez une aventure humaine, artistique et sportive exceptionnelle.",
+      "buttons": [
+        { "text": "Nous contacter", "link": "/contact", "variant": "light" },
+        { "text": "Voir nos programmes", "link": "/cours", "variant": "outline-light" }
+      ]
+    }
+  },
+
+
+  
+"cours": {
+    "heroText": "Nos programmes sont conçus pour inspirer, motiver et développer les talents à travers la danse et la gymnastique.",
+    "gymnasticsPrograms": [
+      { "name": "Gymnastique au sol", "image": "http://localhost:3001/uploads/gym1.jpg" },
+      { "name": "Gymnastique sur engin", "image": "http://localhost:3001/uploads/gym2.jpg" },
+      { "name": "Gymnastique Rythmique", "image": "http://localhost:3001/uploads/gym3.jpg" },
+      { "name": "Cheerleading", "image": "http://localhost:3001/uploads/gym4.jpg" }
+    ],
+    "dancePrograms": [
+      { "name": "Hip-Hop", "description": "Ce cours vous initie aux mouvements, grooves, bounces et rythmes essentiels qui définissent la danse hip-hop. Il est idéal pour les nouveaux venus, il vous permettra de développer coordination, musicalité et confiance en vous dans une ambiance conviviale et stimulante.", "image": "http://localhost:3001/uploads/danse1.jpg" },
+      { "name": "Danse Contemporaine", "description": "Ce cours aborde les techniques fondamentales, la fluidité des mouvements et l'expression créative qui définissent la danse contemporaine.", "image": "http://localhost:3001/uploads/danse2.jpg" },
+      { "name": "Afro Dance", "description": "Ce cours vous initie aux mouvements fondamentaux, aux rythmes et aux racines culturelles de différents styles de danse africaine. Vous développerez force, coordination et rythme dans une ambiance dynamique.", "image": "http://localhost:3001/uploads/danse3.jpg" },
+      { "name": "Krump", "description": "Danse forte et expressive qui permet d’apprendre à travailler en équipe, à se soutenir mutuellement et atteindre les objectifs communs. Ce cours permet de développer la confiance et l’estime de soi.", "image": "http://localhost:3001/uploads/danse4.jpg" },
+      { "name": "Ikoku Fitness", "description": "Sport par les mouvements de danse traditionnelle Gabonaises et Africaines. Ce cours permet de gagner en énergie positive, en confiance et renforce vos muscles et articulations.", "image": "http://localhost:3001/uploads/danse5.jpg" },
+      { "name": "Danse Thérapie", "description": "La prise de conscience de son corps pare le mouvement lent, relaxant et créatif. Ce cours permet de soulager les douleurs chroniques, lutter contre l’anxiété et le stress et développer votre technique.", "image": "http://localhost:3001/uploads/danse6.jpg" }
+    ],
+    "levels": [
+      { "level": "Débutant", "color": "success" },
+      { "level": "Moyen", "color": "info" },
+      { "level": "Intermédiaire", "color": "warning" },
+      { "level": "Professionnel", "color": "danger" }
+    ],
+    "cta": {
+      "title": "Prêt à commencer ?",
+      "text": "Rejoignez notre communauté dynamique et commencez votre parcours vers l’excellence.",
+      "button": { "text": "S'inscrire maintenant", "link": "/contact" }
+    }
+  }
+  ,
+  "tarif": {
+    "title": "Nos Tarifs",
+    "subtitle": "Découvrez nos offres pour la gymnastique, la danse et la thérapie.",
+    "gymnastique": {
+      "inscription": "10.000 FCFA",
+      "options": [
+        { "type": "Gymnastique", "options": ["2 séances", "3 séances", "4 séances", "Week-end"], "prix": ["45.000", "55.000", "65.000", "60.000"] },
+        { "type": "Gymnastique & Danse", "options": ["2 séances", "3 séances", "4 séances", "Week-end"], "prix": ["50.000", "60.000", "75.000", "65.000"] }
+      ],
+      "special": { "title": "Programme Spécial BEPC & BAC", "price": "100.000 FCFA", "period": "Trimestre intensif (Mars, Avril, Mai)" }
+    },
+    "danse": {
+      "inscription": "10.000 FCFA",
+      "disciplines": [
+        { "name": "Hip-Hop", "price": "45.000 FCFA" },
+        { "name": "Krump", "price": "40.000 FCFA" },
+        { "name": "Danse Contemporaine", "price": "60.000 FCFA" },
+        { "name": "Ikoku Fitness", "price": "35.000 FCFA" },
+        { "name": "Afro Dance", "price": "45.000 FCFA" }
+      ]
+    },
+    "therapie": {
+      "forfaits": [
+        { "name": "Solo (Enfants)", "price": "65.000 FCFA" },
+        { "name": "Solo (Adultes)", "price": "80.000 FCFA" },
+        { "name": "Duo", "price": "100.000 FCFA" },
+        { "name": "Trio", "price": "150.000 FCFA" },
+        { "name": "Groupe (+5 pers.)", "price": "200.000 FCFA" }
+      ]
+    }
+  },
+
+  "parrainage": {
+    "title": "Association Zéro A Héro",
+    "subtitle": "Une organisation à but non lucratif dédiée à l'épanouissement des jeunes à travers la danse et la gymnastique.",
+    "mission": {
+      "title": "Notre Mission Caritative",
+      "description": "Offrir des opportunités gratuites aux jeunes défavorisés et créer un impact social durable.",
+      "values": ["Mission caritative", "Accessibilité", "Développement personnel"]
+    },
+    "activities": [
+      { "title": "Ateliers Communautaires", "desc": "Ateliers ouverts au public sans expérience préalable." },
+      { "title": "Randonnées & Sport Nature", "desc": "Organisation d’activités en plein air." },
+      { "title": "Camps de Vacances", "desc": "Camps pour enfants avec activités artistiques et ludiques." },
+      { "title": "Workshops Spécialisés", "desc": "Stages avec intervenants professionnels." },
+      { "title": "Événements & Spectacles", "desc": "Spectacles et compétitions pour valoriser les talents." },
+      { "title": "Programme Social", "desc": "Cours gratuits pour enfants défavorisés." }
+    ],
+    "supportOptions": [
+      { "title": "Faire un Don", "description": "Contribuez financièrement à notre mission." },
+      { "title": "Devenir Parrain", "description": "Engagez-vous sur le long terme et bénéficiez d'une visibilité." },
+      { "title": "Partager notre Mission", "description": "Aidez-nous à faire connaître notre association sur les réseaux." }
+    ],
+    "cta": {
+      "text": "Ensemble, Transformons des Vies !"
+    }
+  },
+
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Rejoignez notre école et découvrez votre passion.",
+    "email": "zeroaherolibreville@gmail.com",
+    "phone": "+241 74 33 20 16",
+    "locations": ["Libreville - Loc1", "Libreville - Loc2"]
+  }
+}
